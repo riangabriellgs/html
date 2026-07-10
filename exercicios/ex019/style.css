@@ -8,22 +8,20 @@ h1{
     color: #1e402f;
 }
 h1#principal{
-    text-align:center;
+    text-align: center;
     background-color: #3c805e;
-    color: white;
+    color: #fff;
 }
 h2{
-    color: #3c805e;
+     color:#3c805e;
 }
 .basico{
-    color: green;
+    color:#3c805e ;
+    font-weight: bold; 
 }
 .intermediario{
-    color: yellow;
+    color: #80793c;
 }
 .avancado{
-    color: red;
-}
-.destaque{
-    background-color: yellowgreen;
+    color: #803c3c;
 }
