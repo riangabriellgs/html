@@ -1,0 +1,1 @@
+bem vindo ao php_check_syntax
